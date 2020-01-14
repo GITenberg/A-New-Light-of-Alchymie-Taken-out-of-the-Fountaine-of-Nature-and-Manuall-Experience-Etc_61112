@@ -1,0 +1,56 @@
+_repo: A-New-Light-of-Alchymie-Taken-out-of-the-Fountaine-of-Nature-and-Manuall-Experience-Etc_61112
+_version: 0.0.1
+alternative_title: Novum lumen chymicum. English
+contributor:
+  translator:
+    agent_name: French, John
+    alias: French, J. (John)
+    birthdate: 1616
+    deathdate: 1657
+    gutenberg_agent_id: '51268'
+    url: http://www.gutenberg.org/2009/agents/51268
+    wikipedia: https://en.wikipedia.org/wiki/John_French_(physician)
+creator:
+  authors:
+  - agent_name: Sedziwój, Michal
+    aliases:
+    - Sandivogius, Micheel
+    - Sendivoius, Michael
+    - Sendivogius, Michael
+    - Sedziwoj, Michal
+    - Sedzimir, Michael
+    gutenberg_agent_id: '51263'
+    url: http://www.gutenberg.org/2009/agents/51263
+    wikipedia: https://en.wikipedia.org/wiki/Sendivogius
+  - agent_name: Paracelsus
+    aliases:
+    - Theophrast von Hohenheim
+    - Von Hohenheim, Philippus Aureolus Theophrastus Bombast
+    - Bombast von Hohenheim, Philipp Aureolus Theophrastus
+    - Paracelsus, Theophrastus
+    - Hohenheim, Theophrastus Bombastus von
+    - Hohenheim, Philipp Aureolus Theophrastus Bombast von
+    birthdate: 1493
+    deathdate: 1541
+    gutenberg_agent_id: '51264'
+    url: http://www.gutenberg.org/2009/agents/51264
+    wikipedia: https://en.wikipedia.org/wiki/Paracelsus
+description: ''
+gutenberg_issued: '2020-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61112'
+  lccn: '17016705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sulfur'
+- !lcc 'QD'
+- !lcsh 'Alchemy -- Early works to 1800'
+- GITenberg
+title: 'A New Light of Alchymie
+
+  Taken out of the Fountaine of Nature, and Manuall Experience.  Etc.'
+url: http://www.gutenberg.org/ebooks/61112

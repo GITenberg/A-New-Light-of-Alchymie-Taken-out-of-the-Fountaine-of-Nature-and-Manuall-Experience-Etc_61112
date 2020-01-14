@@ -1,5 +1,5 @@
 _repo: A-New-Light-of-Alchymie-Taken-out-of-the-Fountaine-of-Nature-and-Manuall-Experience-Etc_61112
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Novum lumen chymicum. English
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '51268'
     url: http://www.gutenberg.org/2009/agents/51268
     wikipedia: https://en.wikipedia.org/wiki/John_French_(physician)
+covers:
+- cover_type: archival
+  image_path: 61112-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Sedziwój, Michal
@@ -36,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51264
     wikipedia: https://en.wikipedia.org/wiki/Paracelsus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61112#A-New-Light-of-Alchymie-Taken-out-of-the-Fountaine-of-Nature-and-Manuall-Experience-Etc
 gutenberg_issued: '2020-01-06'
 gutenberg_type: Text
 identifiers:
